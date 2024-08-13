@@ -1,7 +1,19 @@
 {
-  "user": {
-    "favorites": [],
-    "watchLater": [],
-    "watchList": []
-  }
+  "favorites": [],
+  "watchLater": [],
+  "watched": [],
+  "lists": [
+    {
+      "name": "Awesome List",
+      "data": [
+        "1022789"
+      ],
+      "id": "0"
+    },
+    {
+      "id": "1",
+      "name": "Awesome List 2",
+      "data": []
+    }
+  ]
 }
