@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\", && exit 1",
-    "start": "npx json-server db.json",
-    "dev": "npx json-server db.json"
+    "start": "npx json-server ./public/db.json",
+    "dev": "json-server --watch ./public/db.json --port 5005"
   },
   "keywords": [],
   "author": "",
