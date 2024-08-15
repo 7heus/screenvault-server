@@ -2,7 +2,7 @@
 node_modules
 
 # Ignore .env file (may contain sensitive data)
-.env
+# .env
 
 # Ignore OS generated files (Mac and Windows)
 .DS_Store
